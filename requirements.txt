@@ -1,0 +1,6 @@
+mljar-mercury
+pandas
+numpy
+matplotlib
+seaborn
+plotly
