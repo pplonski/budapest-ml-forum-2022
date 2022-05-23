@@ -1,4 +1,4 @@
-mljar-mercury>=0.8.4
+mljar-mercury>=0.8.5
 pandas
 numpy
 matplotlib
